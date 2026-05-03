@@ -1,5 +1,7 @@
 # Task 5 — FreeAPI Hub
 
+## For Live Demo visit: [stirring-kataifi-d12919.netlify.app](https://stirring-kataifi-d12919.netlify.app/)
+
 A small React app that demos several public endpoints from [FreeAPI](https://freeapi.app). The home page lists every demo, shows each route’s **API URL**, and links into live data views styled with **Tailwind CSS v4**.
 
 ## Stack
